@@ -96,10 +96,3 @@ INX Future Inc. observed a decline in employee performance, with service deliver
 
 This model is designed to support HR decisions, not replace human judgment. Transparency and fairness must be maintained when using predictions that impact employee careers.
 
----
-
-## 👤 Author
-
-**Kutbuddin**  
-BBA Graduate | Aspiring Data Analyst  
-IABAC Certification Project
